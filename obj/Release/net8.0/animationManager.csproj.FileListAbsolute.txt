@@ -1,0 +1,14 @@
+C:\Users\o\Documents\,,,,,, code\animationManager\animationManager\bin\Release\net8.0\anim.exe
+C:\Users\o\Documents\,,,,,, code\animationManager\animationManager\bin\Release\net8.0\anim.deps.json
+C:\Users\o\Documents\,,,,,, code\animationManager\animationManager\bin\Release\net8.0\anim.runtimeconfig.json
+C:\Users\o\Documents\,,,,,, code\animationManager\animationManager\bin\Release\net8.0\anim.dll
+C:\Users\o\Documents\,,,,,, code\animationManager\animationManager\bin\Release\net8.0\anim.pdb
+C:\Users\o\Documents\,,,,,, code\animationManager\animationManager\obj\Release\net8.0\animationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o\Documents\,,,,,, code\animationManager\animationManager\obj\Release\net8.0\animationManager.AssemblyInfoInputs.cache
+C:\Users\o\Documents\,,,,,, code\animationManager\animationManager\obj\Release\net8.0\animationManager.AssemblyInfo.cs
+C:\Users\o\Documents\,,,,,, code\animationManager\animationManager\obj\Release\net8.0\animationManager.csproj.CoreCompileInputs.cache
+C:\Users\o\Documents\,,,,,, code\animationManager\animationManager\obj\Release\net8.0\anim.dll
+C:\Users\o\Documents\,,,,,, code\animationManager\animationManager\obj\Release\net8.0\refint\anim.dll
+C:\Users\o\Documents\,,,,,, code\animationManager\animationManager\obj\Release\net8.0\anim.pdb
+C:\Users\o\Documents\,,,,,, code\animationManager\animationManager\obj\Release\net8.0\animationManager.genruntimeconfig.cache
+C:\Users\o\Documents\,,,,,, code\animationManager\animationManager\obj\Release\net8.0\ref\anim.dll
